@@ -1,0 +1,4 @@
+# excludes auto created files
+
+.gradle
+.idea
